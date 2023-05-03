@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <img src="https://scontent.fkiv9-2.fna.fbcdn.net/v/t39.30808-6/343927449_198850262937743_8368328418874076198_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=g2-oNV3ReRcAX_K5_lm&_nc_ht=scontent.fkiv9-2.fna&oh=00_AfDXV-8GT-54uGDmTORYNXrdZeBITS5bjzK2UKqjT4HJjg&oe=6456681D" alt="Electronic invoices for payment. Open Source software">
-An open-code e-Invoicing solution 
 <h2 center>An open-code e-Invoicing solution for B2G, B2B and B2C sectors.</h2>
 <h3>e-Invoicing is a digital solution that enables public sector and business (companies) to receive and process electronic invoices.</h3>
 <h3>API(s) for intergration</h3>
