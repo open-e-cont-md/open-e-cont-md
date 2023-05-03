@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+An open-code e-Invoicing solution and API(s) for intergration.
+Open source software (OSS) is software that is distributed under a OSS license with its source code, making it available for use, modification, and distribution
