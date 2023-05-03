@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-An open-code e-Invoicing solution and API(s) for intergration.
-Open source software (OSS) is software that is distributed under a OSS license with its source code, making it available for use, modification, and distribution
+<h2 center>An open-code e-Invoicing solution and API(s) for intergration.</h2>
+<h3>e-Invoicing is a digital solution that enables public sector and business (companies) to receive and process electronic invoices.</h3>
+<h3>Open source software (OSS) is software that is distributed under a OSS license with its source code, making it available for use, modification, and distribution</h3>
