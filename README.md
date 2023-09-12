@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 <h3>API(s) for intergration</h3>
 <h3>Open source software (OSS) is software that is distributed under a OSS license with its source code, making it available for use, modification, and distribution</h3>
 
-![alt text](images/en.png?raw=true)
+![English](images/en.png?raw=true)
+![Romana](images/ro.png?raw=true)
+![Russian](images/ru.png?raw=true)
