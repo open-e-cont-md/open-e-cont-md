@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <h3>Open source software (OSS) is software that is distributed under a OSS license with its source code, making it available for use, modification, and distribution</h3>
 
 ![English](images/en.png?raw=true)
-![Romana](images/ro.png?raw=true)
-![Russian](images/ru.png?raw=true)
+<img src="images/ro.png" style="width:16px;height:16px" alt="Romana" title="Romana">
+<img src="images/ru.png" style="width:24px;height:24px" alt="Russian" title="Russian">
