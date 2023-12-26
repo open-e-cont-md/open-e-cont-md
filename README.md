@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </p>
 <p><strong>Ask the Community
 	</strong><br>For questions, please refer to:
-	<br>- our blog
-	<br>- our community
+	<br>- <a href="https://open.e-cont.md/en/blog" target="_blank">our blog</a>
+	<br>- <a href="https://github.com/open-e-cont-md/open-e-cont-md/discussions" target="_blank">our community</a>
 </p>
 
 <h3>Developer and Consulting Support</h3>
